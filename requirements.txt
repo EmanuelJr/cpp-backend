@@ -1,0 +1,5 @@
+llama-cpp-python
+whisper-cpp-python
+fastapi[standard]
+sse-starlette
+uvicorn
